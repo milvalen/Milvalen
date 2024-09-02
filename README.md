@@ -1,7 +1,8 @@
-### Hello there 👋
+### Greetings 🌟
 
-#### A LEGOcy Community Contributor ⛁
+#### Contributing to the LEGOcy Community 🧱
 
-- 🧰 I use daily: `.ts`, `.scss`, `.html`, `.css`, `.go`
-- 🗺 I'm mostly active within the **LEGOcy Community**
-- 📢 `ping` me about **frontend**, **coding**, **legocy**, **development**, **problem solving**
+- 🔧 My daily tools: `.ts`, `.scss`, `.html`, `.css`, `.go`
+- 🌐 Primarily engaged in the **LEGOcy Community**
+- 🎨 Creator of: [legocy.online](https://www.legocy.online/)
+- 📩 Feel free to reach out about **frontend**, **coding**, **legocy**, **development**, **problem solving**
