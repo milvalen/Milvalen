@@ -1,8 +1,10 @@
 ### Greetings 🌟
 
-#### Contributing to the LEGOcy Community 🧱
+#### Frontend Developer ⚛
 
-- 🔧 My daily tools: `.ts`, `.scss`, `.html`, `.css`, `.go`
-- 🌐 Primarily engaged in the **LEGOcy Community**
-- 🎨 Creator of: [legocy.online](https://www.legocy.online/)
-- 📩 Feel free to reach out about **frontend**, **coding**, **legocy**, **development**, **problem solving**
+Developer at [Robotanica.ai](https://robotanica.ai/)
+
+- 🔧 Daily tools: `.dart`, `.ts`, `.scss`, `.html`, `.css`, `.go`
+- 🌱 Primarily engaged with the **Robotanica.ai**
+- 🧱 Contributions: **LEGOcy**
+- 📩 Reach out to me for discussions on: **frontend**, **mobile**, **LEGOcy**, **coding** or **problem solving**
