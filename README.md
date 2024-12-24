@@ -1,10 +1,8 @@
 ### Greetings 🌟
 
-#### Frontend Developer 🌱 and LEGOcy Community Contributor ⛁
-
-Frontend Developer at [Robotanica.ai](https://robotanica.ai/)
+#### Frontend Developer 🖥️ and Robotanica.ai Contributor 🌱
 
 - 🔧 Daily tools: `.dart`, `.html`, `.ts`, `.scss`, `.css`, `.go`
-- 🌐 Primarily engaged with the **LEGOcy Community**
+- 🌐 Primarily engaged with the **Robotanica.ai**
 - 🧱 Contributions: **LEGOcy**
-- 📩 Reach out to me for discussions on: **frontend**, **mobile**, **LEGOcy**, **coding** or **problem solving**
+- 📩 Reach out to me for discussions on: **frontend**, **mobile**, **LEGOcy**, **charts** or **instant messaging**
