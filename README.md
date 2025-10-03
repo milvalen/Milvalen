@@ -1,8 +1,8 @@
 ### Greetings 🌟
 
-#### Frontend Developer 🖥️ and Robotanica.ai Contributor 🌱
+#### Backend Developer at Axevil Capital ⛁ and Robotanica Contributor 🌱
 
-- 🔧 Daily tools: `.dart`, `.cs`, `.py`
-- 🌐 Primarily engaged with the **Robotanica.ai**
+- 🔧 Daily tools: `.py`, `.dart`, `.cs`
+- 🌐 Primarily engaged with the **Robotanica**
 - 🧱 Contributions: **LEGOcy**
-- 📩 Reach out to me for discussions on: **frontend**, **mobile**, **LEGOcy**, **charts** or **instant messaging**
+- 📩 Reach out to me for discussions on: **backend**, **mobile**, **Robotanica**, **drafting** or **augmented reality**
