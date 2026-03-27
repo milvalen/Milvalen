@@ -1,6 +1,6 @@
 ### Greetings 🌟
 
-#### Backend Developer at Axevil Capital ⛁ and Robotanica Contributor 🌱
+#### Backend Developer and Robotanica Contributor 🌱
 
 - 🔧 Daily tools: `.py`, `.dart`, `.cs`
 - 🌐 Primarily engaged with the **Robotanica**
