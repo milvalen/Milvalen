@@ -33,14 +33,14 @@
   </rect>
 
   <!-- Subtitle -->
-  <text x="24" y="95" class="mono" font-size="12" fill="#22bb44" letter-spacing="1">$ whoami — it specialist &amp; robotanica backend/mobile developer</text>
+  <text x="24" y="95" class="mono" font-size="12" fill="#22bb44" letter-spacing="1">$ whoami — it specialist &amp; robotanica contributor</text>
 
   <!-- Divider -->
   <line x1="24" y1="110" x2="616" y2="110" stroke="#1a5c2a" stroke-width="1"/>
 
   <!-- Role lines -->
   <text x="24" y="133" class="mono" font-size="13" fill="#22bb44">&#9788;</text>
-  <text x="44" y="133" class="mono" font-size="13" fill="#33ff66">IT Specialist @ bkgroup.pro</text>
+  <text x="44" y="133" class="mono" font-size="13" fill="#33ff66">Lead Integrations & Automation Developer @ bkgroup.pro</text>
 
   <text x="24" y="155" class="mono" font-size="13" fill="#22bb44">&#9790;</text>
   <text x="44" y="155" class="mono" font-size="13" fill="#33ff66">Backend / Mobile Developer @ Robotanica</text>
