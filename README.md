@@ -1,1 +1,1 @@
-![profile](./milvalen-profile.svg)
+![profile](milvalen-profile.svg)
