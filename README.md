@@ -1,6 +1,6 @@
 Artemy Erkov. Backend engineer in Moscow.
 
-I build services in Python, Go and PostgreSQL, mostly to automate how a business works. At my last two jobs I was the only backend developer, then the only developer.
+I build backend services and internal tools in Python, Go and PostgreSQL. At my last two jobs I was the only backend developer, then the only developer.
 
 Things here you can read:
 
