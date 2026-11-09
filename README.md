@@ -8,4 +8,4 @@ Things here you can read:
   * [file-transfer-prototype](https://github.com/milvalen/file-transfer-prototype): resumable file transfer in Go, verified with CRC32
   * [legocy-co/frontend](https://github.com/legocy-co/frontend): React and TypeScript frontend of a LEGO marketplace, from my internship
 
-CV and work history: [milvalen.github.io](https://milvalen.github.io). Mail: artemyerkov@gmail.com
+CV and work history: [artemy.erkov.ru](https://artemy.erkov.ru). Mail: artemyerkov@gmail.com
